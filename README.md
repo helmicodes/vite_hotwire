@@ -1,3 +1,3 @@
 # vite_hotwire
 
-Vite template with Stimulus and Hotwire installed.
+Vite template with Stimulus and Turbo installed.
